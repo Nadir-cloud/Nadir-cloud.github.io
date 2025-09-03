@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools | Мой сайт</title>
+    <link>https://nadir-cloud.github.io/tags/tools/</link>
+      <atom:link href="https://nadir-cloud.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tools</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nadir-cloud.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Tools</title>
+      <link>https://nadir-cloud.github.io/tags/tools/</link>
+    </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://nadir-cloud.github.io/publication/02/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/publication/02/</guid>
+      <description>&lt;h1 id=&#34;-язык-разметки-markdown&#34;&gt;📝 Язык разметки Markdown&lt;/h1&gt;
+&lt;p&gt;Markdown — это простой и удобный язык разметки, созданный для того, чтобы писать тексты, которые легко читаются в исходном виде и могут быть преобразованы в HTML.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-основные-возможности-markdown&#34;&gt;🔧 Основные возможности Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h1 id=&#34;заголовки-разных-уровней&#34;&gt;Заголовки разных уровней&lt;/h1&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Жирный&lt;/strong&gt; и &lt;em&gt;курсив&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Списки:
+&lt;ul&gt;
+&lt;li&gt;маркированные&lt;/li&gt;
+&lt;li&gt;нумерованные&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;📑 Цитаты и блоки кода&lt;/li&gt;
+&lt;li&gt;🔗 Ссылки и изображения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-где-используется-markdown&#34;&gt;📘 Где используется Markdown?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Ведение блогов и заметок&lt;/li&gt;
+&lt;li&gt;📚 Документация к проектам (GitHub README)&lt;/li&gt;
+&lt;li&gt;📧 Форматирование писем&lt;/li&gt;
+&lt;li&gt;📝 Учебные конспекты и отчёты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-преимущества-markdown&#34;&gt;🚀 Преимущества Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Простота синтаксиса&lt;/li&gt;
+&lt;li&gt;Читаемость без конвертации&lt;/li&gt;
+&lt;li&gt;Поддержка на большинстве платформ (GitHub, GitLab, Hugo, Jupyter и др.)&lt;/li&gt;
+&lt;li&gt;Лёгкость изучения даже для новичков&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-применение-в-учёбе&#34;&gt;🎓 Применение в учёбе&lt;/h2&gt;
+&lt;p&gt;Markdown отлично подходит студентам:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Для написания отчётов и лабораторных.&lt;/li&gt;
+&lt;li&gt;Для создания личных сайтов и портфолио.&lt;/li&gt;
+&lt;li&gt;Для публикации научных заметок.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Вывод:&lt;/strong&gt; Markdown — универсальный инструмент для студентов и исследователей, позволяющий быстро оформлять тексты и делиться ими в удобном формате.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

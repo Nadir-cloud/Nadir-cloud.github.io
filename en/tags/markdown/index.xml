@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | My Site</title>
+    <link>https://nadir-cloud.github.io/en/tags/markdown/</link>
+      <atom:link href="https://nadir-cloud.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nadir-cloud.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://nadir-cloud.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 September 1st! The beginning of the academic year at RUDN.&lt;/li&gt;
+&lt;li&gt;📖 Attended introductory lectures and met the professors.&lt;/li&gt;
+&lt;li&gt;📝 Took notes on the first topic &lt;em&gt;“Introduction to Business Informatics”&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🤝 Found a team for collaborative work on project assignments.&lt;/li&gt;
+&lt;li&gt;🌍 Attended a student event — energized by the university atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 Started preparing for the first semester — organized topics by subject.&lt;/li&gt;
+&lt;li&gt;💻 Learned basic &lt;strong&gt;Git&lt;/strong&gt; commands and created my first repository on GitHub.&lt;/li&gt;
+&lt;li&gt;📚 Compiled a reading list on business informatics and economics.&lt;/li&gt;
+&lt;li&gt;🏃 Continued training — ran 6 km and improved endurance.&lt;/li&gt;
+&lt;li&gt;☕ Met friends at a café — discussed plans for September.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 Wrote a short note on the application of business analytics in different fields.&lt;/li&gt;
+&lt;li&gt;💻 Tried working with &lt;strong&gt;Python Pandas&lt;/strong&gt; for data analysis.&lt;/li&gt;
+&lt;li&gt;🤝 Talked with senior students — got useful tips on studying &lt;em&gt;Business Informatics&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🎮 Played an online game with friends to relax after studying.&lt;/li&gt;
+&lt;li&gt;🍵 Spent an evening with a book and a cup of tea — a perfect way to unwind.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Started learning the basics of data analysis in &lt;strong&gt;Excel and Google Sheets&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📘 Reviewed mathematics: functions and the basics of linear algebra.&lt;/li&gt;
+&lt;li&gt;💡 Prepared notes on the topic &lt;em&gt;“Digital Business Transformation”&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🎬 Watched a documentary about startups and innovations.&lt;/li&gt;
+&lt;li&gt;🚶 Took a long walk around the city to reset my mind.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 Started reading materials on business informatics — getting familiar with the concept of the digital economy.&lt;/li&gt;
+&lt;li&gt;💻 Learned the basics of &lt;strong&gt;SQL&lt;/strong&gt;: practiced creating tables and queries.&lt;/li&gt;
+&lt;li&gt;🤝 Met classmates from the course — agreed to work on mini-projects together.&lt;/li&gt;
+&lt;li&gt;⚽ Played football on the RUDN sports ground — a great way to relax.&lt;/li&gt;
+&lt;li&gt;☀️ Went for a walk in the park — recharged with energy for the new week.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

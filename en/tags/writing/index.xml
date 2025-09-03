@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing | My Site</title>
+    <link>https://nadir-cloud.github.io/en/tags/writing/</link>
+      <atom:link href="https://nadir-cloud.github.io/en/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Writing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nadir-cloud.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Writing</title>
+      <link>https://nadir-cloud.github.io/en/tags/writing/</link>
+    </image>
+    
+    <item>
+      <title>Markdown Markup Language</title>
+      <link>https://nadir-cloud.github.io/en/publication/02/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/02/</guid>
+      <description>&lt;h1 id=&#34;-markdown-markup-language&#34;&gt;📝 Markdown Markup Language&lt;/h1&gt;
+&lt;p&gt;Markdown is a simple and convenient markup language created to write text that is easy to read in its raw form and can be converted to HTML.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-core-features-of-markdown&#34;&gt;🔧 Core Features of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h1 id=&#34;headers-of-different-levels&#34;&gt;Headers of different levels&lt;/h1&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Lists:
+&lt;ul&gt;
+&lt;li&gt;bullet points&lt;/li&gt;
+&lt;li&gt;numbered&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;📑 Blockquotes and code blocks&lt;/li&gt;
+&lt;li&gt;🔗 Links and images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-markdown-used&#34;&gt;📘 Where is Markdown used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Blogging and note-taking&lt;/li&gt;
+&lt;li&gt;📚 Project documentation (GitHub README)&lt;/li&gt;
+&lt;li&gt;📧 Email formatting&lt;/li&gt;
+&lt;li&gt;📝 Study notes and reports&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages-of-markdown&#34;&gt;🚀 Advantages of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple syntax&lt;/li&gt;
+&lt;li&gt;Readability without conversion&lt;/li&gt;
+&lt;li&gt;Supported on most platforms (GitHub, GitLab, Hugo, Jupyter, etc.)&lt;/li&gt;
+&lt;li&gt;Easy to learn even for beginners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-use-in-education&#34;&gt;🎓 Use in Education&lt;/h2&gt;
+&lt;p&gt;Markdown is great for students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing reports and lab work.&lt;/li&gt;
+&lt;li&gt;Creating personal websites and portfolios.&lt;/li&gt;
+&lt;li&gt;Publishing scientific notes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; Markdown is a universal tool for students and researchers, allowing you to quickly format text and share it in a convenient format.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report Formatting</title>
+      <link>https://nadir-cloud.github.io/en/publication/03/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/03/</guid>
+      <description>&lt;h1 id=&#34;-report-formatting&#34;&gt;📑 Report Formatting&lt;/h1&gt;
+&lt;p&gt;A report is an important document in academic and scientific activities. Proper formatting helps structure the material and makes it clear for professors or colleagues.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-report-structure&#34;&gt;🔧 Report Structure&lt;/h2&gt;
+&lt;p&gt;A typical report consists of the following parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title page&lt;/strong&gt; — work title, student’s full name, group, date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Table of contents&lt;/strong&gt; — with page numbers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; — purpose and objectives of the work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Main part&lt;/strong&gt; — description of theory, experiment, or project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; — results and findings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References&lt;/strong&gt; — list of sources used.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(Optional)&lt;/em&gt; Appendices — tables, graphs, screenshots.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-basic-requirements&#34;&gt;📘 Basic Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Font: Times New Roman, 12–14 pt.&lt;/li&gt;
+&lt;li&gt;Line spacing: 1.5.&lt;/li&gt;
+&lt;li&gt;Margins: standard (2–2.5 cm).&lt;/li&gt;
+&lt;li&gt;Text alignment: justified.&lt;/li&gt;
+&lt;li&gt;Page numbering: required.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tools-for-formatting&#34;&gt;🛠️ Tools for Formatting&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MS Word&lt;/strong&gt; or &lt;strong&gt;Google Docs&lt;/strong&gt; — the classic choice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — for scientific and technical reports.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; + PDF conversion — a lightweight option for students.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tips-for-students&#34;&gt;🎓 Tips for Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Always check the teacher’s requirements for the report.&lt;/li&gt;
+&lt;li&gt;Maintain consistent formatting.&lt;/li&gt;
+&lt;li&gt;Use automatic table of contents.&lt;/li&gt;
+&lt;li&gt;Don’t forget proper formatting of tables, figures, and captions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; a well-formatted report demonstrates not only the results of your work but also your organization skills and attention to detail.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

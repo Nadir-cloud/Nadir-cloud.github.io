@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps | My Site</title>
+    <link>https://nadir-cloud.github.io/en/tags/devops/</link>
+      <atom:link href="https://nadir-cloud.github.io/en/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <description>DevOps</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nadir-cloud.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>DevOps</title>
+      <link>https://nadir-cloud.github.io/en/tags/devops/</link>
+    </image>
+    
+    <item>
+      <title>Continuous Integration and Deployment (CI/CD)</title>
+      <link>https://nadir-cloud.github.io/en/publication/01/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;-continuous-integration-and-continuous-deployment-cicd&#34;&gt;⚙️ Continuous Integration and Continuous Deployment (CI/CD)&lt;/h1&gt;
+&lt;p&gt;CI/CD is a set of practices in software development aimed at speeding up and improving the quality of code delivery.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-ci-continuous-integration&#34;&gt;🔧 What is CI (Continuous Integration)?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt; is the process of frequently merging code changes into a shared repository.&lt;br&gt;
+Each change is automatically verified through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Project build&lt;/li&gt;
+&lt;li&gt;🧪 Running tests&lt;/li&gt;
+&lt;li&gt;🔍 Code analysis (linters, static analysis)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This way, errors are detected as early as possible.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-cd-continuous-delivery--continuous-deployment&#34;&gt;🚀 What is CD (Continuous Delivery / Continuous Deployment)?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt; — automating the process of preparing code for release.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Deployment&lt;/strong&gt; — one step further: the code is automatically deployed to a server or cloud after successfully passing tests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📦 Faster delivery of new features to users&lt;/li&gt;
+&lt;li&gt;🔒 Reduced risks through smaller, more frequent releases&lt;/li&gt;
+&lt;li&gt;⚡ Minimization of manual operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-cicd-tools&#34;&gt;🛠️ Popular CI/CD Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt; — built-in pipelines for GitHub projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt; — a powerful tool for DevOps workflows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt; — a universal automation system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt; — a cloud solution for CI/CD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-application-in-student-projects&#34;&gt;📑 Application in Student Projects&lt;/h2&gt;
+&lt;p&gt;Even students can benefit from using CI/CD:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 Automatic checking of homework and projects.&lt;/li&gt;
+&lt;li&gt;👥 Teamwork with transparent quality control.&lt;/li&gt;
+&lt;li&gt;🌍 Deploying projects to GitHub Pages or cloud platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; CI/CD helps not only professional teams but also students — it teaches development discipline, improves code quality, and simplifies project work.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

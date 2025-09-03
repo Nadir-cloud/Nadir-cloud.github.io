@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | My Site</title>
+    <link>https://nadir-cloud.github.io/en/project/</link>
+      <atom:link href="https://nadir-cloud.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nadir-cloud.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://nadir-cloud.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Project — Personal Academic Website with Hugo Academic</title>
+      <link>https://nadir-cloud.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-my-project-personal-academic-website&#34;&gt;🌐 My Project: Personal Academic Website&lt;/h2&gt;
+&lt;p&gt;In the digital age, it’s important for a researcher or student to have a &lt;strong&gt;personal online portfolio&lt;/strong&gt;. It helps present academic interests, publications, and projects to a broad audience. I chose &lt;strong&gt;Hugo Academic (now — Wowchemy Academic)&lt;/strong&gt; — a convenient platform for building academic websites.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-why-hugo-academic&#34;&gt;🔧 Why Hugo Academic?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It’s a &lt;strong&gt;static site&lt;/strong&gt;, which makes it fast and secure.&lt;/li&gt;
+&lt;li&gt;Easy integration with &lt;strong&gt;Markdown&lt;/strong&gt; — you can write posts and notes in a simple format.&lt;/li&gt;
+&lt;li&gt;Support for &lt;strong&gt;scholarly profiles&lt;/strong&gt; (ORCID, Google Scholar, ResearchGate, etc.).&lt;/li&gt;
+&lt;li&gt;Flexible customization: you can style the site as a personal portfolio or a full-fledged research page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-what-i-did&#34;&gt;🚀 What I did&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;📦 Installed Hugo and the Academic theme.&lt;/li&gt;
+&lt;li&gt;📝 Configured the student profile: added information about myself, studies, and research interests.&lt;/li&gt;
+&lt;li&gt;🔗 Linked profiles:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;🖼️ Added sections: &lt;em&gt;About, Education, Skills, Publications, Projects&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🌍 Set up deployment to &lt;strong&gt;GitHub Pages&lt;/strong&gt; so the site is available online.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-outcome&#34;&gt;📑 Outcome&lt;/h3&gt;
+&lt;p&gt;Now I have a &lt;strong&gt;personal portfolio site&lt;/strong&gt; where I can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;showcase academic interests and achievements,&lt;/li&gt;
+&lt;li&gt;share projects and publications,&lt;/li&gt;
+&lt;li&gt;stay in touch with peers and professors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a great start for a career in science and business informatics, as the site helps stand out among students and shows a serious attitude toward the profession.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-whats-next&#34;&gt;✨ What’s next?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I’ll add a &lt;em&gt;Blog&lt;/em&gt; section to publish notes about my research and study projects.&lt;/li&gt;
+&lt;li&gt;I’ll set up integration with &lt;strong&gt;Google Scholar&lt;/strong&gt; to fetch publications automatically.&lt;/li&gt;
+&lt;li&gt;I plan to make an English version of the site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 Tip: you can start with the basic Hugo Academic setup — everything can be configured gradually. The main thing is not to be afraid to try and improve the site step by step.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

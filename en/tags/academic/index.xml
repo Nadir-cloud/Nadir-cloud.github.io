@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | My Site</title>
+    <link>https://nadir-cloud.github.io/en/tags/academic/</link>
+      <atom:link href="https://nadir-cloud.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nadir-cloud.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://nadir-cloud.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Intelligence in Education</title>
+      <link>https://nadir-cloud.github.io/en/publication/05/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/05/</guid>
+      <description>&lt;h1 id=&#34;-artificial-intelligence-in-education&#34;&gt;🤖 Artificial Intelligence in Education&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Artificial Intelligence (AI)&lt;/strong&gt; is becoming an essential part of the educational environment, helping both students and teachers in learning, research, and academic organization.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-applications-of-ai-in-education&#34;&gt;🔧 Applications of AI in Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 &lt;strong&gt;Personalized learning&lt;/strong&gt; — adapting materials to the student’s level.&lt;/li&gt;
+&lt;li&gt;📝 &lt;strong&gt;Automated grading&lt;/strong&gt; — saving teachers’ time.&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Intelligent assistants&lt;/strong&gt; — support in exam preparation and project work.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;Learning analytics&lt;/strong&gt; — tracking student progress and predicting outcomes.&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Simulations and virtual labs&lt;/strong&gt; — practical skills without expensive equipment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-benefits-of-ai-in-education&#34;&gt;🚀 Benefits of AI in Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Personalized approach for every student.&lt;/li&gt;
+&lt;li&gt;Increased efficiency of the learning process.&lt;/li&gt;
+&lt;li&gt;Knowledge accessible anytime and anywhere.&lt;/li&gt;
+&lt;li&gt;Automation of routine tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-challenges-and-limitations&#34;&gt;⚠️ Challenges and Limitations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🔒 Issues of privacy and data security.&lt;/li&gt;
+&lt;li&gt;⚖️ Risk of overdependence on technology.&lt;/li&gt;
+&lt;li&gt;📉 Possible algorithm errors in assessing knowledge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-importance-for-students&#34;&gt;🎓 Importance for Students&lt;/h2&gt;
+&lt;p&gt;AI can become a great assistant for students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps search for and structure information.&lt;/li&gt;
+&lt;li&gt;Simplifies the study of complex topics through examples and explanations.&lt;/li&gt;
+&lt;li&gt;Provides the opportunity to focus on creative and research tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; Artificial intelligence opens new horizons in education but requires responsible and conscious use. It does not replace teachers; instead, it complements them, making the learning process more efficient and modern.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown Markup Language</title>
+      <link>https://nadir-cloud.github.io/en/publication/02/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/02/</guid>
+      <description>&lt;h1 id=&#34;-markdown-markup-language&#34;&gt;📝 Markdown Markup Language&lt;/h1&gt;
+&lt;p&gt;Markdown is a simple and convenient markup language created to write text that is easy to read in its raw form and can be converted to HTML.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-core-features-of-markdown&#34;&gt;🔧 Core Features of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h1 id=&#34;headers-of-different-levels&#34;&gt;Headers of different levels&lt;/h1&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Lists:
+&lt;ul&gt;
+&lt;li&gt;bullet points&lt;/li&gt;
+&lt;li&gt;numbered&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;📑 Blockquotes and code blocks&lt;/li&gt;
+&lt;li&gt;🔗 Links and images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-markdown-used&#34;&gt;📘 Where is Markdown used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Blogging and note-taking&lt;/li&gt;
+&lt;li&gt;📚 Project documentation (GitHub README)&lt;/li&gt;
+&lt;li&gt;📧 Email formatting&lt;/li&gt;
+&lt;li&gt;📝 Study notes and reports&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages-of-markdown&#34;&gt;🚀 Advantages of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple syntax&lt;/li&gt;
+&lt;li&gt;Readability without conversion&lt;/li&gt;
+&lt;li&gt;Supported on most platforms (GitHub, GitLab, Hugo, Jupyter, etc.)&lt;/li&gt;
+&lt;li&gt;Easy to learn even for beginners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-use-in-education&#34;&gt;🎓 Use in Education&lt;/h2&gt;
+&lt;p&gt;Markdown is great for students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing reports and lab work.&lt;/li&gt;
+&lt;li&gt;Creating personal websites and portfolios.&lt;/li&gt;
+&lt;li&gt;Publishing scientific notes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; Markdown is a universal tool for students and researchers, allowing you to quickly format text and share it in a convenient format.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report Formatting</title>
+      <link>https://nadir-cloud.github.io/en/publication/03/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/03/</guid>
+      <description>&lt;h1 id=&#34;-report-formatting&#34;&gt;📑 Report Formatting&lt;/h1&gt;
+&lt;p&gt;A report is an important document in academic and scientific activities. Proper formatting helps structure the material and makes it clear for professors or colleagues.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-report-structure&#34;&gt;🔧 Report Structure&lt;/h2&gt;
+&lt;p&gt;A typical report consists of the following parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title page&lt;/strong&gt; — work title, student’s full name, group, date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Table of contents&lt;/strong&gt; — with page numbers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; — purpose and objectives of the work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Main part&lt;/strong&gt; — description of theory, experiment, or project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; — results and findings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References&lt;/strong&gt; — list of sources used.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(Optional)&lt;/em&gt; Appendices — tables, graphs, screenshots.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-basic-requirements&#34;&gt;📘 Basic Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Font: Times New Roman, 12–14 pt.&lt;/li&gt;
+&lt;li&gt;Line spacing: 1.5.&lt;/li&gt;
+&lt;li&gt;Margins: standard (2–2.5 cm).&lt;/li&gt;
+&lt;li&gt;Text alignment: justified.&lt;/li&gt;
+&lt;li&gt;Page numbering: required.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tools-for-formatting&#34;&gt;🛠️ Tools for Formatting&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MS Word&lt;/strong&gt; or &lt;strong&gt;Google Docs&lt;/strong&gt; — the classic choice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — for scientific and technical reports.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; + PDF conversion — a lightweight option for students.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tips-for-students&#34;&gt;🎓 Tips for Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Always check the teacher’s requirements for the report.&lt;/li&gt;
+&lt;li&gt;Maintain consistent formatting.&lt;/li&gt;
+&lt;li&gt;Use automatic table of contents.&lt;/li&gt;
+&lt;li&gt;Don’t forget proper formatting of tables, figures, and captions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; a well-formatted report demonstrates not only the results of your work but also your organization skills and attention to detail.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming</title>
+      <link>https://nadir-cloud.github.io/en/publication/04/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/04/</guid>
+      <description>&lt;h1 id=&#34;-scientific-programming&#34;&gt;🖥️ Scientific Programming&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Scientific programming&lt;/strong&gt; is the use of programming languages and tools to solve problems in science, engineering, and data analytics. It combines mathematics, algorithms, and computational methods.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-main-languages-of-scientific-programming&#34;&gt;🔧 Main Languages of Scientific Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — libraries like NumPy, SciPy, Pandas, Matplotlib for data analysis and visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — statistics and big data processing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C/C++&lt;/strong&gt; — high-performance computing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; — a classic language for numerical methods and engineering calculations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language for scientific computing with high speed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-areas-of-application&#34;&gt;📊 Areas of Application&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🔬 Physics and process modeling&lt;/li&gt;
+&lt;li&gt;🌍 Geoinformatics and climate studies&lt;/li&gt;
+&lt;li&gt;🧬 Bioinformatics&lt;/li&gt;
+&lt;li&gt;📈 Economics and financial modeling&lt;/li&gt;
+&lt;li&gt;🤖 Machine learning and artificial intelligence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages-of-scientific-programming&#34;&gt;🚀 Advantages of Scientific Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability to solve complex problems impossible to handle manually.&lt;/li&gt;
+&lt;li&gt;Optimization of algorithms and models.&lt;/li&gt;
+&lt;li&gt;Automation of data analysis.&lt;/li&gt;
+&lt;li&gt;Scalability for large computations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-importance-for-students&#34;&gt;🎓 Importance for Students&lt;/h2&gt;
+&lt;p&gt;For students, scientific programming provides opportunities to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn to work with real-world data.&lt;/li&gt;
+&lt;li&gt;Develop projects with practical significance.&lt;/li&gt;
+&lt;li&gt;Gain experience with tools used in research centers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; Scientific programming is a key tool for the modern researcher, enabling effective problem-solving across various fields of science and technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 September 1st! The beginning of the academic year at RUDN.&lt;/li&gt;
+&lt;li&gt;📖 Attended introductory lectures and met the professors.&lt;/li&gt;
+&lt;li&gt;📝 Took notes on the first topic &lt;em&gt;“Introduction to Business Informatics”&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🤝 Found a team for collaborative work on project assignments.&lt;/li&gt;
+&lt;li&gt;🌍 Attended a student event — energized by the university atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project — Personal Academic Website with Hugo Academic</title>
+      <link>https://nadir-cloud.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-my-project-personal-academic-website&#34;&gt;🌐 My Project: Personal Academic Website&lt;/h2&gt;
+&lt;p&gt;In the digital age, it’s important for a researcher or student to have a &lt;strong&gt;personal online portfolio&lt;/strong&gt;. It helps present academic interests, publications, and projects to a broad audience. I chose &lt;strong&gt;Hugo Academic (now — Wowchemy Academic)&lt;/strong&gt; — a convenient platform for building academic websites.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-why-hugo-academic&#34;&gt;🔧 Why Hugo Academic?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It’s a &lt;strong&gt;static site&lt;/strong&gt;, which makes it fast and secure.&lt;/li&gt;
+&lt;li&gt;Easy integration with &lt;strong&gt;Markdown&lt;/strong&gt; — you can write posts and notes in a simple format.&lt;/li&gt;
+&lt;li&gt;Support for &lt;strong&gt;scholarly profiles&lt;/strong&gt; (ORCID, Google Scholar, ResearchGate, etc.).&lt;/li&gt;
+&lt;li&gt;Flexible customization: you can style the site as a personal portfolio or a full-fledged research page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-what-i-did&#34;&gt;🚀 What I did&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;📦 Installed Hugo and the Academic theme.&lt;/li&gt;
+&lt;li&gt;📝 Configured the student profile: added information about myself, studies, and research interests.&lt;/li&gt;
+&lt;li&gt;🔗 Linked profiles:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;🖼️ Added sections: &lt;em&gt;About, Education, Skills, Publications, Projects&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🌍 Set up deployment to &lt;strong&gt;GitHub Pages&lt;/strong&gt; so the site is available online.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-outcome&#34;&gt;📑 Outcome&lt;/h3&gt;
+&lt;p&gt;Now I have a &lt;strong&gt;personal portfolio site&lt;/strong&gt; where I can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;showcase academic interests and achievements,&lt;/li&gt;
+&lt;li&gt;share projects and publications,&lt;/li&gt;
+&lt;li&gt;stay in touch with peers and professors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a great start for a career in science and business informatics, as the site helps stand out among students and shows a serious attitude toward the profession.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-whats-next&#34;&gt;✨ What’s next?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I’ll add a &lt;em&gt;Blog&lt;/em&gt; section to publish notes about my research and study projects.&lt;/li&gt;
+&lt;li&gt;I’ll set up integration with &lt;strong&gt;Google Scholar&lt;/strong&gt; to fetch publications automatically.&lt;/li&gt;
+&lt;li&gt;I plan to make an English version of the site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 Tip: you can start with the basic Hugo Academic setup — everything can be configured gradually. The main thing is not to be afraid to try and improve the site step by step.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Deployment (CI/CD)</title>
+      <link>https://nadir-cloud.github.io/en/publication/01/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;-continuous-integration-and-continuous-deployment-cicd&#34;&gt;⚙️ Continuous Integration and Continuous Deployment (CI/CD)&lt;/h1&gt;
+&lt;p&gt;CI/CD is a set of practices in software development aimed at speeding up and improving the quality of code delivery.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-ci-continuous-integration&#34;&gt;🔧 What is CI (Continuous Integration)?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt; is the process of frequently merging code changes into a shared repository.&lt;br&gt;
+Each change is automatically verified through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Project build&lt;/li&gt;
+&lt;li&gt;🧪 Running tests&lt;/li&gt;
+&lt;li&gt;🔍 Code analysis (linters, static analysis)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This way, errors are detected as early as possible.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-cd-continuous-delivery--continuous-deployment&#34;&gt;🚀 What is CD (Continuous Delivery / Continuous Deployment)?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt; — automating the process of preparing code for release.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Deployment&lt;/strong&gt; — one step further: the code is automatically deployed to a server or cloud after successfully passing tests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📦 Faster delivery of new features to users&lt;/li&gt;
+&lt;li&gt;🔒 Reduced risks through smaller, more frequent releases&lt;/li&gt;
+&lt;li&gt;⚡ Minimization of manual operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-cicd-tools&#34;&gt;🛠️ Popular CI/CD Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt; — built-in pipelines for GitHub projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt; — a powerful tool for DevOps workflows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt; — a universal automation system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt; — a cloud solution for CI/CD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-application-in-student-projects&#34;&gt;📑 Application in Student Projects&lt;/h2&gt;
+&lt;p&gt;Even students can benefit from using CI/CD:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 Automatic checking of homework and projects.&lt;/li&gt;
+&lt;li&gt;👥 Teamwork with transparent quality control.&lt;/li&gt;
+&lt;li&gt;🌍 Deploying projects to GitHub Pages or cloud platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; CI/CD helps not only professional teams but also students — it teaches development discipline, improves code quality, and simplifies project work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 Started preparing for the first semester — organized topics by subject.&lt;/li&gt;
+&lt;li&gt;💻 Learned basic &lt;strong&gt;Git&lt;/strong&gt; commands and created my first repository on GitHub.&lt;/li&gt;
+&lt;li&gt;📚 Compiled a reading list on business informatics and economics.&lt;/li&gt;
+&lt;li&gt;🏃 Continued training — ran 6 km and improved endurance.&lt;/li&gt;
+&lt;li&gt;☕ Met friends at a café — discussed plans for September.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 Wrote a short note on the application of business analytics in different fields.&lt;/li&gt;
+&lt;li&gt;💻 Tried working with &lt;strong&gt;Python Pandas&lt;/strong&gt; for data analysis.&lt;/li&gt;
+&lt;li&gt;🤝 Talked with senior students — got useful tips on studying &lt;em&gt;Business Informatics&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🎮 Played an online game with friends to relax after studying.&lt;/li&gt;
+&lt;li&gt;🍵 Spent an evening with a book and a cup of tea — a perfect way to unwind.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Started learning the basics of data analysis in &lt;strong&gt;Excel and Google Sheets&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📘 Reviewed mathematics: functions and the basics of linear algebra.&lt;/li&gt;
+&lt;li&gt;💡 Prepared notes on the topic &lt;em&gt;“Digital Business Transformation”&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🎬 Watched a documentary about startups and innovations.&lt;/li&gt;
+&lt;li&gt;🚶 Took a long walk around the city to reset my mind.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 Started reading materials on business informatics — getting familiar with the concept of the digital economy.&lt;/li&gt;
+&lt;li&gt;💻 Learned the basics of &lt;strong&gt;SQL&lt;/strong&gt;: practiced creating tables and queries.&lt;/li&gt;
+&lt;li&gt;🤝 Met classmates from the course — agreed to work on mini-projects together.&lt;/li&gt;
+&lt;li&gt;⚽ Played football on the RUDN sports ground — a great way to relax.&lt;/li&gt;
+&lt;li&gt;☀️ Went for a walk in the park — recharged with energy for the new week.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

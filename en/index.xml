@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Site</title>
+    <link>https://nadir-cloud.github.io/en/</link>
+      <atom:link href="https://nadir-cloud.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Site</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nadir-cloud.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>My Site</title>
+      <link>https://nadir-cloud.github.io/en/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://nadir-cloud.github.io/en/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
+ feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including 
+ such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Education</title>
+      <link>https://nadir-cloud.github.io/en/publication/05/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/05/</guid>
+      <description>&lt;h1 id=&#34;-artificial-intelligence-in-education&#34;&gt;🤖 Artificial Intelligence in Education&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Artificial Intelligence (AI)&lt;/strong&gt; is becoming an essential part of the educational environment, helping both students and teachers in learning, research, and academic organization.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-applications-of-ai-in-education&#34;&gt;🔧 Applications of AI in Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 &lt;strong&gt;Personalized learning&lt;/strong&gt; — adapting materials to the student’s level.&lt;/li&gt;
+&lt;li&gt;📝 &lt;strong&gt;Automated grading&lt;/strong&gt; — saving teachers’ time.&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Intelligent assistants&lt;/strong&gt; — support in exam preparation and project work.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;Learning analytics&lt;/strong&gt; — tracking student progress and predicting outcomes.&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Simulations and virtual labs&lt;/strong&gt; — practical skills without expensive equipment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-benefits-of-ai-in-education&#34;&gt;🚀 Benefits of AI in Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Personalized approach for every student.&lt;/li&gt;
+&lt;li&gt;Increased efficiency of the learning process.&lt;/li&gt;
+&lt;li&gt;Knowledge accessible anytime and anywhere.&lt;/li&gt;
+&lt;li&gt;Automation of routine tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-challenges-and-limitations&#34;&gt;⚠️ Challenges and Limitations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🔒 Issues of privacy and data security.&lt;/li&gt;
+&lt;li&gt;⚖️ Risk of overdependence on technology.&lt;/li&gt;
+&lt;li&gt;📉 Possible algorithm errors in assessing knowledge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-importance-for-students&#34;&gt;🎓 Importance for Students&lt;/h2&gt;
+&lt;p&gt;AI can become a great assistant for students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps search for and structure information.&lt;/li&gt;
+&lt;li&gt;Simplifies the study of complex topics through examples and explanations.&lt;/li&gt;
+&lt;li&gt;Provides the opportunity to focus on creative and research tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; Artificial intelligence opens new horizons in education but requires responsible and conscious use. It does not replace teachers; instead, it complements them, making the learning process more efficient and modern.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown Markup Language</title>
+      <link>https://nadir-cloud.github.io/en/publication/02/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/02/</guid>
+      <description>&lt;h1 id=&#34;-markdown-markup-language&#34;&gt;📝 Markdown Markup Language&lt;/h1&gt;
+&lt;p&gt;Markdown is a simple and convenient markup language created to write text that is easy to read in its raw form and can be converted to HTML.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-core-features-of-markdown&#34;&gt;🔧 Core Features of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h1 id=&#34;headers-of-different-levels&#34;&gt;Headers of different levels&lt;/h1&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Lists:
+&lt;ul&gt;
+&lt;li&gt;bullet points&lt;/li&gt;
+&lt;li&gt;numbered&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;📑 Blockquotes and code blocks&lt;/li&gt;
+&lt;li&gt;🔗 Links and images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-markdown-used&#34;&gt;📘 Where is Markdown used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Blogging and note-taking&lt;/li&gt;
+&lt;li&gt;📚 Project documentation (GitHub README)&lt;/li&gt;
+&lt;li&gt;📧 Email formatting&lt;/li&gt;
+&lt;li&gt;📝 Study notes and reports&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages-of-markdown&#34;&gt;🚀 Advantages of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple syntax&lt;/li&gt;
+&lt;li&gt;Readability without conversion&lt;/li&gt;
+&lt;li&gt;Supported on most platforms (GitHub, GitLab, Hugo, Jupyter, etc.)&lt;/li&gt;
+&lt;li&gt;Easy to learn even for beginners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-use-in-education&#34;&gt;🎓 Use in Education&lt;/h2&gt;
+&lt;p&gt;Markdown is great for students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing reports and lab work.&lt;/li&gt;
+&lt;li&gt;Creating personal websites and portfolios.&lt;/li&gt;
+&lt;li&gt;Publishing scientific notes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; Markdown is a universal tool for students and researchers, allowing you to quickly format text and share it in a convenient format.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report Formatting</title>
+      <link>https://nadir-cloud.github.io/en/publication/03/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/03/</guid>
+      <description>&lt;h1 id=&#34;-report-formatting&#34;&gt;📑 Report Formatting&lt;/h1&gt;
+&lt;p&gt;A report is an important document in academic and scientific activities. Proper formatting helps structure the material and makes it clear for professors or colleagues.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-report-structure&#34;&gt;🔧 Report Structure&lt;/h2&gt;
+&lt;p&gt;A typical report consists of the following parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title page&lt;/strong&gt; — work title, student’s full name, group, date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Table of contents&lt;/strong&gt; — with page numbers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; — purpose and objectives of the work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Main part&lt;/strong&gt; — description of theory, experiment, or project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; — results and findings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References&lt;/strong&gt; — list of sources used.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(Optional)&lt;/em&gt; Appendices — tables, graphs, screenshots.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-basic-requirements&#34;&gt;📘 Basic Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Font: Times New Roman, 12–14 pt.&lt;/li&gt;
+&lt;li&gt;Line spacing: 1.5.&lt;/li&gt;
+&lt;li&gt;Margins: standard (2–2.5 cm).&lt;/li&gt;
+&lt;li&gt;Text alignment: justified.&lt;/li&gt;
+&lt;li&gt;Page numbering: required.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tools-for-formatting&#34;&gt;🛠️ Tools for Formatting&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MS Word&lt;/strong&gt; or &lt;strong&gt;Google Docs&lt;/strong&gt; — the classic choice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — for scientific and technical reports.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; + PDF conversion — a lightweight option for students.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tips-for-students&#34;&gt;🎓 Tips for Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Always check the teacher’s requirements for the report.&lt;/li&gt;
+&lt;li&gt;Maintain consistent formatting.&lt;/li&gt;
+&lt;li&gt;Use automatic table of contents.&lt;/li&gt;
+&lt;li&gt;Don’t forget proper formatting of tables, figures, and captions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; a well-formatted report demonstrates not only the results of your work but also your organization skills and attention to detail.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming</title>
+      <link>https://nadir-cloud.github.io/en/publication/04/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/04/</guid>
+      <description>&lt;h1 id=&#34;-scientific-programming&#34;&gt;🖥️ Scientific Programming&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Scientific programming&lt;/strong&gt; is the use of programming languages and tools to solve problems in science, engineering, and data analytics. It combines mathematics, algorithms, and computational methods.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-main-languages-of-scientific-programming&#34;&gt;🔧 Main Languages of Scientific Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — libraries like NumPy, SciPy, Pandas, Matplotlib for data analysis and visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — statistics and big data processing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C/C++&lt;/strong&gt; — high-performance computing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; — a classic language for numerical methods and engineering calculations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language for scientific computing with high speed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-areas-of-application&#34;&gt;📊 Areas of Application&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🔬 Physics and process modeling&lt;/li&gt;
+&lt;li&gt;🌍 Geoinformatics and climate studies&lt;/li&gt;
+&lt;li&gt;🧬 Bioinformatics&lt;/li&gt;
+&lt;li&gt;📈 Economics and financial modeling&lt;/li&gt;
+&lt;li&gt;🤖 Machine learning and artificial intelligence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages-of-scientific-programming&#34;&gt;🚀 Advantages of Scientific Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability to solve complex problems impossible to handle manually.&lt;/li&gt;
+&lt;li&gt;Optimization of algorithms and models.&lt;/li&gt;
+&lt;li&gt;Automation of data analysis.&lt;/li&gt;
+&lt;li&gt;Scalability for large computations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-importance-for-students&#34;&gt;🎓 Importance for Students&lt;/h2&gt;
+&lt;p&gt;For students, scientific programming provides opportunities to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn to work with real-world data.&lt;/li&gt;
+&lt;li&gt;Develop projects with practical significance.&lt;/li&gt;
+&lt;li&gt;Gain experience with tools used in research centers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; Scientific programming is a key tool for the modern researcher, enabling effective problem-solving across various fields of science and technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 September 1st! The beginning of the academic year at RUDN.&lt;/li&gt;
+&lt;li&gt;📖 Attended introductory lectures and met the professors.&lt;/li&gt;
+&lt;li&gt;📝 Took notes on the first topic &lt;em&gt;“Introduction to Business Informatics”&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🤝 Found a team for collaborative work on project assignments.&lt;/li&gt;
+&lt;li&gt;🌍 Attended a student event — energized by the university atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project — Personal Academic Website with Hugo Academic</title>
+      <link>https://nadir-cloud.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-my-project-personal-academic-website&#34;&gt;🌐 My Project: Personal Academic Website&lt;/h2&gt;
+&lt;p&gt;In the digital age, it’s important for a researcher or student to have a &lt;strong&gt;personal online portfolio&lt;/strong&gt;. It helps present academic interests, publications, and projects to a broad audience. I chose &lt;strong&gt;Hugo Academic (now — Wowchemy Academic)&lt;/strong&gt; — a convenient platform for building academic websites.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-why-hugo-academic&#34;&gt;🔧 Why Hugo Academic?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It’s a &lt;strong&gt;static site&lt;/strong&gt;, which makes it fast and secure.&lt;/li&gt;
+&lt;li&gt;Easy integration with &lt;strong&gt;Markdown&lt;/strong&gt; — you can write posts and notes in a simple format.&lt;/li&gt;
+&lt;li&gt;Support for &lt;strong&gt;scholarly profiles&lt;/strong&gt; (ORCID, Google Scholar, ResearchGate, etc.).&lt;/li&gt;
+&lt;li&gt;Flexible customization: you can style the site as a personal portfolio or a full-fledged research page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-what-i-did&#34;&gt;🚀 What I did&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;📦 Installed Hugo and the Academic theme.&lt;/li&gt;
+&lt;li&gt;📝 Configured the student profile: added information about myself, studies, and research interests.&lt;/li&gt;
+&lt;li&gt;🔗 Linked profiles:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;🖼️ Added sections: &lt;em&gt;About, Education, Skills, Publications, Projects&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🌍 Set up deployment to &lt;strong&gt;GitHub Pages&lt;/strong&gt; so the site is available online.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-outcome&#34;&gt;📑 Outcome&lt;/h3&gt;
+&lt;p&gt;Now I have a &lt;strong&gt;personal portfolio site&lt;/strong&gt; where I can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;showcase academic interests and achievements,&lt;/li&gt;
+&lt;li&gt;share projects and publications,&lt;/li&gt;
+&lt;li&gt;stay in touch with peers and professors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a great start for a career in science and business informatics, as the site helps stand out among students and shows a serious attitude toward the profession.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-whats-next&#34;&gt;✨ What’s next?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I’ll add a &lt;em&gt;Blog&lt;/em&gt; section to publish notes about my research and study projects.&lt;/li&gt;
+&lt;li&gt;I’ll set up integration with &lt;strong&gt;Google Scholar&lt;/strong&gt; to fetch publications automatically.&lt;/li&gt;
+&lt;li&gt;I plan to make an English version of the site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 Tip: you can start with the basic Hugo Academic setup — everything can be configured gradually. The main thing is not to be afraid to try and improve the site step by step.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Deployment (CI/CD)</title>
+      <link>https://nadir-cloud.github.io/en/publication/01/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;-continuous-integration-and-continuous-deployment-cicd&#34;&gt;⚙️ Continuous Integration and Continuous Deployment (CI/CD)&lt;/h1&gt;
+&lt;p&gt;CI/CD is a set of practices in software development aimed at speeding up and improving the quality of code delivery.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-ci-continuous-integration&#34;&gt;🔧 What is CI (Continuous Integration)?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt; is the process of frequently merging code changes into a shared repository.&lt;br&gt;
+Each change is automatically verified through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Project build&lt;/li&gt;
+&lt;li&gt;🧪 Running tests&lt;/li&gt;
+&lt;li&gt;🔍 Code analysis (linters, static analysis)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This way, errors are detected as early as possible.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-cd-continuous-delivery--continuous-deployment&#34;&gt;🚀 What is CD (Continuous Delivery / Continuous Deployment)?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt; — automating the process of preparing code for release.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Deployment&lt;/strong&gt; — one step further: the code is automatically deployed to a server or cloud after successfully passing tests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📦 Faster delivery of new features to users&lt;/li&gt;
+&lt;li&gt;🔒 Reduced risks through smaller, more frequent releases&lt;/li&gt;
+&lt;li&gt;⚡ Minimization of manual operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-cicd-tools&#34;&gt;🛠️ Popular CI/CD Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt; — built-in pipelines for GitHub projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt; — a powerful tool for DevOps workflows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt; — a universal automation system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt; — a cloud solution for CI/CD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-application-in-student-projects&#34;&gt;📑 Application in Student Projects&lt;/h2&gt;
+&lt;p&gt;Even students can benefit from using CI/CD:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 Automatic checking of homework and projects.&lt;/li&gt;
+&lt;li&gt;👥 Teamwork with transparent quality control.&lt;/li&gt;
+&lt;li&gt;🌍 Deploying projects to GitHub Pages or cloud platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; CI/CD helps not only professional teams but also students — it teaches development discipline, improves code quality, and simplifies project work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 Started preparing for the first semester — organized topics by subject.&lt;/li&gt;
+&lt;li&gt;💻 Learned basic &lt;strong&gt;Git&lt;/strong&gt; commands and created my first repository on GitHub.&lt;/li&gt;
+&lt;li&gt;📚 Compiled a reading list on business informatics and economics.&lt;/li&gt;
+&lt;li&gt;🏃 Continued training — ran 6 km and improved endurance.&lt;/li&gt;
+&lt;li&gt;☕ Met friends at a café — discussed plans for September.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 Wrote a short note on the application of business analytics in different fields.&lt;/li&gt;
+&lt;li&gt;💻 Tried working with &lt;strong&gt;Python Pandas&lt;/strong&gt; for data analysis.&lt;/li&gt;
+&lt;li&gt;🤝 Talked with senior students — got useful tips on studying &lt;em&gt;Business Informatics&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🎮 Played an online game with friends to relax after studying.&lt;/li&gt;
+&lt;li&gt;🍵 Spent an evening with a book and a cup of tea — a perfect way to unwind.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Started learning the basics of data analysis in &lt;strong&gt;Excel and Google Sheets&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📘 Reviewed mathematics: functions and the basics of linear algebra.&lt;/li&gt;
+&lt;li&gt;💡 Prepared notes on the topic &lt;em&gt;“Digital Business Transformation”&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🎬 Watched a documentary about startups and innovations.&lt;/li&gt;
+&lt;li&gt;🚶 Took a long walk around the city to reset my mind.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://nadir-cloud.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 Started reading materials on business informatics — getting familiar with the concept of the digital economy.&lt;/li&gt;
+&lt;li&gt;💻 Learned the basics of &lt;strong&gt;SQL&lt;/strong&gt;: practiced creating tables and queries.&lt;/li&gt;
+&lt;li&gt;🤝 Met classmates from the course — agreed to work on mini-projects together.&lt;/li&gt;
+&lt;li&gt;⚽ Played football on the RUDN sports ground — a great way to relax.&lt;/li&gt;
+&lt;li&gt;☀️ Went for a walk in the park — recharged with energy for the new week.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://nadir-cloud.github.io/en/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://nadir-cloud.github.io/en/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript</title>
+      <link>https://nadir-cloud.github.io/en/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/teaching/js/</guid>
+      <description>&lt;p&gt;
+ is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1WV4y1r7DF&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your 
+, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; spoiler text=&amp;#34;👉 Click to view the solution&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$
+.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

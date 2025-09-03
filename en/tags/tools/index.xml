@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools | My Site</title>
+    <link>https://nadir-cloud.github.io/en/tags/tools/</link>
+      <atom:link href="https://nadir-cloud.github.io/en/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tools</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nadir-cloud.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Tools</title>
+      <link>https://nadir-cloud.github.io/en/tags/tools/</link>
+    </image>
+    
+    <item>
+      <title>Markdown Markup Language</title>
+      <link>https://nadir-cloud.github.io/en/publication/02/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nadir-cloud.github.io/en/publication/02/</guid>
+      <description>&lt;h1 id=&#34;-markdown-markup-language&#34;&gt;📝 Markdown Markup Language&lt;/h1&gt;
+&lt;p&gt;Markdown is a simple and convenient markup language created to write text that is easy to read in its raw form and can be converted to HTML.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-core-features-of-markdown&#34;&gt;🔧 Core Features of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h1 id=&#34;headers-of-different-levels&#34;&gt;Headers of different levels&lt;/h1&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Lists:
+&lt;ul&gt;
+&lt;li&gt;bullet points&lt;/li&gt;
+&lt;li&gt;numbered&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;📑 Blockquotes and code blocks&lt;/li&gt;
+&lt;li&gt;🔗 Links and images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-markdown-used&#34;&gt;📘 Where is Markdown used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Blogging and note-taking&lt;/li&gt;
+&lt;li&gt;📚 Project documentation (GitHub README)&lt;/li&gt;
+&lt;li&gt;📧 Email formatting&lt;/li&gt;
+&lt;li&gt;📝 Study notes and reports&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages-of-markdown&#34;&gt;🚀 Advantages of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple syntax&lt;/li&gt;
+&lt;li&gt;Readability without conversion&lt;/li&gt;
+&lt;li&gt;Supported on most platforms (GitHub, GitLab, Hugo, Jupyter, etc.)&lt;/li&gt;
+&lt;li&gt;Easy to learn even for beginners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-use-in-education&#34;&gt;🎓 Use in Education&lt;/h2&gt;
+&lt;p&gt;Markdown is great for students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing reports and lab work.&lt;/li&gt;
+&lt;li&gt;Creating personal websites and portfolios.&lt;/li&gt;
+&lt;li&gt;Publishing scientific notes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;💡 &lt;strong&gt;Conclusion:&lt;/strong&gt; Markdown is a universal tool for students and researchers, allowing you to quickly format text and share it in a convenient format.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
